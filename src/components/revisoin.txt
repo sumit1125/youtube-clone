@@ -1,0 +1,2 @@
+// from the start this to build the file and folder structure and mui deps and react.js
+// using mui componets in the stack to improve stlyle and efficent coding using mui'
